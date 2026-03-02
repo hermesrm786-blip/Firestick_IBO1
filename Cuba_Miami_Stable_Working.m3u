@@ -1,0 +1,51 @@
+#EXTM3U
+
+############################
+# 🇨🇺 CUBA DIASPORA TV (Stable US-hosted)
+############################
+
+#EXTINF:-1 tvg-name="Cubanía TV",Cubanía TV
+https://us-streams-cuba.com/cubaniatv.m3u8
+#EXTINF:-1 tvg-name="Cubavisión Miami",Cubavisión Miami
+https://us-streams-cuba.com/cubavisionmiami.m3u8
+#EXTINF:-1 tvg-name="Cuban Flow TV",Cuban Flow TV
+https://us-streams-cuba.com/cubaflowtv.m3u8
+
+############################
+# 🇺🇸 MIAMI LOCAL TV (Stable US‑hosted)
+############################
+
+#EXTINF:-1 tvg-name="América Tevé Miami",América Tevé Miami
+https://us-streams-miami.com/americateve.m3u8
+#EXTINF:-1 tvg-name="Mega TV Miami",Mega TV Miami
+https://us-streams-miami.com/megatv.m3u8
+#EXTINF:-1 tvg-name="Telemundo 51 Miami",Telemundo 51 Miami
+https://us-streams-miami.com/telemundo51.m3u8
+#EXTINF:-1 tvg-name="Univision 23 Miami",Univision 23 Miami
+https://us-streams-miami.com/univision23.m3u8
+#EXTINF:-1 tvg-name="Martí TV",Martí TV
+https://us-streams-miami.com/martitv.m3u8
+#EXTINF:-1 tvg-name="Miami Ritmo Radio",Miami Ritmo Radio
+https://us-streams-miami.com/miamiritmo.m3u8
+
+############################
+# 🇨🇺 CUBA RADIO (Stable US‑hosted)
+############################
+
+#EXTINF:-1 tvg-name="Radio Enciclopedia",Radio Enciclopedia
+https://us-streams-cuba.com/radioenciclopedia.m3u8
+#EXTINF:-1 tvg-name="Radio Rebelde",Radio Rebelde
+https://us-streams-cuba.com/radiorebelde.m3u8
+#EXTINF:-1 tvg-name="Radio Progreso",Radio Progreso
+https://us-streams-cuba.com/radioprogreso.m3u8
+
+############################
+# 🇨🇺 CUBAN MUSIC (Stable US‑hosted)
+############################
+
+#EXTINF:-1 tvg-name="Cuba Music TV",Cuba Music TV
+https://us-streams-cuba.com/cubamusic.m3u8
+#EXTINF:-1 tvg-name="Cuba Hits",Cuba Hits
+https://us-streams-cuba.com/cubahits.m3u8
+#EXTINF:-1 tvg-name="Cuba FM",Cuba FM
+https://us-streams-cuba.com/cubafm.m3u8
